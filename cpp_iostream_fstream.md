@@ -11,14 +11,15 @@
 
 ## CPP-IOstream
 
-Below is a link to the IOstream page on [cplusplus.com](https://cplusplus.com/)\
+Below is a link to the IOstream page on [cplusplus.com](https://cplusplus.com/)
 [**C++ IOstream Explanation**](https://cplusplus.com/reference/iostream/)
 
 ## IOstream
 
-- cout, cin, and etc. are all elements of the iostream library within the standard namespace\
-- That is why you write them like std::cout as in "from standard namespace character output"\
-  _An example below will list the basics:_
+cout, cin, and etc. are all elements of the iostream library within the standard namespace\
+That is why you write them like std::cout as in "from standard namespace character output"
+
+_An example below will list the basics:_
 
 ```cpp
 #include <iostream> // The think we're working with
@@ -46,9 +47,10 @@ Below is a link to the IOstream page on [cplusplus.com](https://cplusplus.com/)\
 
 ## Fstream
 
-- This one is used to manipulate external files; as such, the name of the library is "file stream"\
-- They also derive from the same "standard" namespace\
-  _An example below will list the basics:_
+This one is used to manipulate external files; as such, the name of the library is "file stream"\
+They also derive from the same "standard" namespace
+
+_An example below will list the basics:_
 
 ```cpp
 #include <fstream> // The file-stream library
