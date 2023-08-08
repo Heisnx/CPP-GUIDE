@@ -27,8 +27,9 @@ The candy being the values that they accept
 
 ## Integer
 
-> Declared with an _int_ at the start, this data type represents whole numbers within a 32 bit limit\*\*\
-> _Examples will be shown below:_
+Declared with an _int_ at the start, this data type represents whole numbers within a 32 bit limit
+
+_An example illustrating integers will be shown below:_
 
 ```cpp
 #include <iostream> // This is necessary for us to use "std::cout"
@@ -45,10 +46,11 @@ int main()
 
 ## Float/Double
 
-> Declared with either _float_ or _double_, these variables contain floating-point numbers\
-> Numbers of type _float_ always an _f_ after the number\
-> Numbers of type _double_ are more precise than those of type _float_ due to using 8 byte/64 bit to store its values\
-> _Examples will be shown below:_
+Declared with either _float_ or _double_, these variables contain floating-point numbers\
+Numbers of type _float_ always an _f_ after the number\
+umbers of type _double_ are more precise than those of type _float_ due to using 8 byte/64 bit to store its values
+
+_An example illustrating floats and doubles will be shown below:_
 
 ```cpp
 int main()
@@ -62,10 +64,11 @@ int main()
 
 ## Boolean
 
-> Declared with _bool_, these variables can only store a true or false response\
-> _true_ is represented as a 1; _false_ is represented as a 0\
-> Boolean variables use 1 byte or 8 bits of storage which may be wasteful\
-> _Examples will be shown below:_
+Declared with _bool_, these variables can only store a true or false response\
+_true_ is represented as a 1; _false_ is represented as a 0\
+Boolean variables use 1 byte or 8 bits of storage which may be wasteful
+
+_An example illustrating booleans will be shown below:_
 
 ```cpp
 int main()
@@ -79,9 +82,10 @@ int main()
 
 ## Character
 
-> Declared with a _char_, these variables store a single character/key\
-> _char_ type values are usually stored in single quotes\
-> _Examples will be shown below:_
+Declared with a _char_, these variables store a single character/key\
+_char_ type values are usually stored in single quotes
+
+_An example illustrating characters will be shown below:_
 
 ```cpp
 int main()
@@ -95,8 +99,9 @@ int main()
 
 ## String
 
-> Declared with either _std::string_ or _string_ if you're using the _std_ namespace, this variable type stores text-like information\
-> The declaration process of this type of variables is more complex than the others and is shown below\
+Declared with either _std::string_ or _string_ if you're using the _std_ namespace, this variable type stores text-like information
+
+_The declaration process of this type of variables is more complex than the others and is shown below:_
 
 ```cpp
 #include <string>
@@ -110,4 +115,4 @@ int main()
 
 ## Void
 
-> The _void_ type is a valueless type: this means that they return or store no values
+The _void_ type is a valueless type: this means that they return or store no values
