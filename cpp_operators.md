@@ -62,7 +62,7 @@ To skip to operators of specific type, please refer to the menu below
 
 ### Operators Example
 
-> _An example illustrating how operators work will be shown below:_
+_An example illustrating how operators work will be shown below:_
 
 ```cpp
 #include <iostream> // To use "std::cout" and "std::cin"
