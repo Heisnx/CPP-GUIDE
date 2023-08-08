@@ -17,7 +17,8 @@ If statements in c++ are like conditions in real life
 - If the weather is rainy tomorrow, I will not go out to the park
 - If the integer variable named "a" is not equal to 5, output "a = 5" onto the console
 
-The above two example illustrate how if statements are used in c++ as well as in most other coding languages such as Python and JavaScript\
+The above two example illustrate how if statements are used in c++ as well as in most other coding languages such as Python and JavaScript
+
 _An example illustrating its usage in code will be provided below:_
 
 ```cpp
@@ -61,7 +62,8 @@ For loops work like another real life situation
 - For every apple in your basket, I will give you a dollar
 - For the variable `int i = 0`, until it becomes equal to 5: `i <= 5`, and on the condition that it grows by 1: `++i`, I will write "Hello"
 
-The example provided is hard to grasp at this stage, but the examples below will clear up all the fog\
+The example provided is hard to grasp at this stage, but the examples below will clear up all the fog
+
 _An example illustrating its usage in code will be provided below:_
 
 ```cpp
@@ -89,7 +91,8 @@ This type of for loops reflects another real life situation
 - For variable `const int &i` in range of the vector `std::vector<int> v`, iterate over every element in the vector "v"
 
 This one's even more confusing: what is "&i" or a vector?
-Don't worry since we'll go over it\
+Don't worry since we'll go over it
+
 _An example illustrating its usage in code will be provided below:_
 
 ```cpp
@@ -141,7 +144,8 @@ The seed determines which succession of results that "rand" would use
 ### > **Rand**
 
 Rand is used to quote "generate" pseudo-random numbers\
-When using it, you give it a starting point and an ending point\
+When using it, you give it a starting point and an ending point
+
 _Here's how you would use it together with "srand":_
 
 ```cpp
@@ -166,7 +170,8 @@ You've guessed it, user; while loops are yet another condition that are reflecti
 - While the boolean "is_valid" is set to true, I will continue printing nothing by zeros into the console
 
 I understand, these examples are pretty weird, but they do the job at explaining the condition\
-Regardless, we will get into this right now\
+Regardless, we will get into this right now
+
 _An example illustrating its usage in code will be provided below:_
 
 ```cpp
