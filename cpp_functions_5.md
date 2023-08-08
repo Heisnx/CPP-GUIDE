@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-- [Genral](#general)
+- [General](#general)
 - [Numeric](#numeric)
 - [Boolean](#boolean)
 - [Void](#void)
