@@ -2,12 +2,6 @@
 
 A bunch of markdown files that go over the concepts of c++ in style
 
-## Table of Contents
-
-- [Explanation](#explanation)
-- [Installation](#installation)
-- [Contributors](#contributors)
-
 ## Explanation
 
 I made this repository as a means to reflect on my prior knowledge of C/C++\
@@ -16,7 +10,7 @@ Hence, I chose to use github and markdown to make it more readable and manageabl
 
 ## Installation
 
-> **Date: 06/08/2023**
+> **Date: 06/08/2023**\
 > **Version: v1.0**
 
 ## Contributors
