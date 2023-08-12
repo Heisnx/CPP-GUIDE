@@ -8,6 +8,10 @@ I made this repository as a means to reflect on my prior knowledge of C/C++\
 Initially, I would store my notes in a Google Docs document, which turned out to be ineffective due to how hard to navigate it became\
 Hence, I chose to use github and markdown to make it more readable and manageable
 
+## Additional
+
+Feel free to suggest any changes
+
 ## Installation
 
 > **Date: 12/08/2023**\
