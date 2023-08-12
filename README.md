@@ -10,8 +10,8 @@ Hence, I chose to use github and markdown to make it more readable and manageabl
 
 ## Installation
 
-> **Date: 06/08/2023**\
-> **Version: v1.0**
+> **Date: 12/08/2023**\
+> **Version: v1.1**
 
 ## Contributors
 
