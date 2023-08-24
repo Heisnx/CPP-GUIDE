@@ -6,10 +6,7 @@
 > Basically, they both serve to contain something\
 > Let's begin shall we?
 
-## Table of Contents
-
-- [Structs](#structs)
-- [Arrays](#arrays)
+- [Skip to Arrays](#arrays)
 
 ## Structs
 
@@ -119,6 +116,6 @@ int main()
 			std::cout << multi_dimensional_array[i][j] << ", ";
 		}
 	}
+	return 0;
 }
 ```
-
