@@ -14,7 +14,7 @@ Feel free to suggest any changes
 
 ## Installation
 
-> **Date of Last Contribution: 23/08/2023**\
+> **Date of Last Contribution: 24/08/2023**\
 > **Date of Creation: 05/08/2023**\
 > **Public Since: 12/08/2023**\
 > **Version: v1.1**
